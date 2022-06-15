@@ -1,4 +1,4 @@
-Proyecto base para el primer reto
+Proyecto base para el segundo reto
 
 El código incluye comentarios que explican la estructura del proyecto y los puntos en los que se tiene que trabajar están marcados con un TODO.
 
