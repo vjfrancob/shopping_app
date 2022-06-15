@@ -1,16 +1,7 @@
-# f_shopping_app_r2_template
+Proyecto base para el primer reto
 
-A new Flutter project.
+El código incluye comentarios que explican la estructura del proyecto y los puntos en los que se tiene que trabajar están marcados con un TODO.
 
-## Getting Started
+El siguiente es un demo de la interfaz a la que se debe llegar (funcionalidades adicionales o mejoras a la interfaz son permitidas):
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![shoppingApp](https://user-images.githubusercontent.com/4458129/173839525-218900ed-9bcd-4f6f-9158-0b02dd9d7707.gif)
